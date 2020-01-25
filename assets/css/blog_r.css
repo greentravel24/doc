@@ -1102,4 +1102,6 @@ input[type="submit"],
 					margin-bottom: 2em;
 				}
 
-		}
+		} 
+			.screenshot {
+			width: 95%;}
